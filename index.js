@@ -1,4 +1,4 @@
-#! /user/bin/env 
+#! /usr/bin/env node 
 import inquirer from "inquirer";
 import chalk from "chalk";
 //tsk 1 if elseuse ho ga -agr withdraw 50000se ziada ho ga tu wo message de ga insufficient balance
