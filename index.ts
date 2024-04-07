@@ -3,8 +3,8 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 
-//tsk 1 if elseuse ho ga -agr withdraw 50000se ziada ho ga tu wo message de ga insufficient balance
-//task 2
+//tsk 1 if else use ho ga agr withdraw 50000se ziada ho ga tu wo message de ga insufficient balance
+//task 2  use template literals
 
 let myBalance = 5000; //dollar
 let myPin: any = 1234;

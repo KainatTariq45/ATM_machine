@@ -1,6 +1,6 @@
 {
   "name": "c8t3_atm_machine",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The project is ATM machine using Typescrit, Node.js, Inquirer and chalk",
   "main": "index.js",
   "type": "module",
